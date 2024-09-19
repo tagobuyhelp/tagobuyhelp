@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tagobuyhelp&label=Profile%20views&color=0e75b6&style=flat" alt="tagobuyhelp" /> </p>
 
-- 🌱 I’m currently learning **Bachelor Of Computer Application (BCA)**
+- 🌱 I’m currently pursuing a Bachelor of Computer Applications (BCA) at Manipal University Jaipur.**
 
 - 👨‍💻 All of my projects are available at [tarikaziz.dev](tarikaziz.dev)
 
