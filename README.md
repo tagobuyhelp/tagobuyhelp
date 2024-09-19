@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently pursuing a Bachelor of Computer Applications (BCA) at Manipal University Jaipur.**
 
-- 👨‍💻 All of my projects are available at <a herf="tarikaziz.tagobuy.net">tarikaziz.tagobuy.net</a>
+- 👨‍💻 All of my projects are available at <a herf="tarikaziz.tagobuy.net" target="blank">tarikaziz.tagobuy.net</a>
 
 - 💬 Ask me about **Node.js, Express, MongoDb,React,Tailwind**
 
