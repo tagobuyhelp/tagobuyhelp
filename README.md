@@ -1,28 +1,123 @@
-<h1 align="center">Hi 👋, I'm Tarik Aziz</h1>
-<h3 align="center">A full-stack developer with expertise in Node.js, Express, Tailwind CSS, and MongoDB. I have experience deploying production-level web applications</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-- 🌱 **I’m currently pursuing a Bachelor of Computer Applications (BCA) at Manipal University Jaipur.**
-
-- 👨‍💻 All of my projects are available at https://tarikaziz.tagobuy.net
-
-- 💬 Ask me about **Node.js, Express, MongoDb,React,Tailwind**
-
-- 📫 How to reach me **tarikazizb@gmail.com**
-
-- 📄 Know about my experiences https://tarikaziz.tagobuy.net/resume
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tarik-aziz-67a231250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarik-aziz-67a231250" height="30" width="40" /></a>
+<!-- README.md for tarikaziz (tagobuyhelp) -->
+<p align="center">
+  <a href="https://tarikaziz.com" target="_blank" rel="noopener">
+    <img src="https://tarikaziz.com/assets/images/logo.png" alt="Tarik Aziz" width="120" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm <strong>Tarik Aziz</strong></h1>
+<p align="center">
+  <strong>Full-Stack MERN Developer</strong> — I build scalable web apps, eCommerce stores & school ERPs using <code>React</code>, <code>Node.js</code>, <code>MongoDB</code> and <code>Tailwind CSS</code>.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagobuyhelp&show_icons=true&locale=en&layout=compact" alt="tagobuyhelp" /></p>
+<p align="center">
+  <a href="https://tarikaziz.com" target="_blank">tarikaziz.com</a> ·
+  <a href="mailto:tarik@tarikaziz.com">tarik@tarikaziz.com</a> ·
+  <a href="tel:+919732950781">+91 97329 50781</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tagobuyhelp&show_icons=true&locale=en" alt="tagobuyhelp" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagobuyhelp&" alt="tagobuyhelp" /></p>
+## 🚀 What I do
+- Build production-ready web applications (MERN / Next.js) — eCommerce, SaaS, ERP, admin dashboards.  
+- End-to-end: architecture, UI, API, deployment, and maintenance.  
+- Focus on **performance**, **security**, and **SEO** for business growth.
+
+---
+
+## 🧭 Quick links
+- 🌐 Website — https://tarikaziz.com  
+- 📄 Resume — https://tarikaziz.com/resume  
+- 💼 Portfolio / Projects — https://tarikaziz.com/projects  
+- 🔗 LinkedIn — https://linkedin.com/in/tarik-aziz-67a231250/  
+- 🐙 GitHub — https://github.com/tagobuyhelp
+
+---
+
+## 🛠️ Tech & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="36" height="36" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="36" height="36" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="36" height="36" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="36" height="36" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="36" height="36" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="AWS" width="36" height="36" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="36" height="36" />&nbsp;
+</p>
+
+---
+
+## 🔎 Featured Projects
+> Short case studies — visit **/projects** on the website for demos & code.
+
+- **Global Circle Edu** — Study-abroad consultancy: course search, lead forms, admin dashboards. (React, Node, MongoDB, AWS)  
+  🔗 https://globalcircleedu.com
+
+- **Aam Study Circle** — School ERP: admissions, attendance, exams, fees, multi-role dashboards. (MERN, Tailwind)  
+  🔗 https://aamstudycircle.com
+
+- **IMAS Business School** — Institutional website + CMS + branding assets. (React, Node, Express)  
+  🔗 https://development.tagobuy.site
+
+- **Gramer Shuddho** — Organic eCommerce store: product catalog, payments, order management. (MERN)  
+  🔗 https://gramershuddho.example.com
+
+---
+
+## 🧾 How I work
+1. Scope & proposal — clear milestones and pricing.  
+2. Design & prototype — Figma/Lo-fi wireframes (optional).  
+3. Development — iterative sprints, weekly demos.  
+4. QA & deployment — automated deploys (Vercel / Netlify / VPS).  
+5. Support — bug fixes, monitoring, and improvements.
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tagobuyhelp&show_icons=true&locale=en" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagobuyhelp&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tagobuyhelp&" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Get in touch
+- ✉️ Email — tarik@tarikaziz.com  
+- ☎️ Phone / WhatsApp — +91 97329 50781 · +91 86534 46874  
+- 📅 Book a free 30-min call — https://tarikaziz.com/contact
+
+---
+
+## 🧾 Hire / Work with me
+If you need a **MERN developer** for an MVP, eCommerce, or ERP project — send a short brief (2–3 lines) with timeline & budget to **tarik@tarikaziz.com**. I’ll reply within 24 hours on working days.
+
+---
+
+<p align="center">
+  <a href="https://tarikaziz.com">
+    <img src="https://img.shields.io/badge/website-tarikaziz.com-0057b8?style=flat-square&logo=google-chrome" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tarik-aziz-67a231250/">
+    <img src="https://img.shields.io/badge/linkedin-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:tarik@tarikaziz.com">
+    <img src="https://img.shields.io/badge/email-tarik@tarikaziz.com-D14836?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!-- Optional: small footer -->
+<p align="center">
+  <sub>Built with ❤️ • © 2025 <strong>Tarik Aziz</strong> • <a href="https://tarikaziz.com/privacy">Privacy</a></sub>
+</p>
